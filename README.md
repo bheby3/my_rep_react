@@ -1,5 +1,6 @@
 
-install: npm install
-run: npm start
+npm install
+
+npm start
 
 
